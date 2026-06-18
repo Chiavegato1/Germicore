@@ -11,7 +11,7 @@ const TEAM_BG = 'https://d2xsxph8kpxj0f.cloudfront.net/310519663734922461/fYAR9B
 const team = [
   {
     name: 'Henrique Chiavegato',
-    role: 'Co-fundador',
+    role: 'Fundador & Líder',
     icon: Leaf,
     color: '#22C55E',
     initials: 'HC',
